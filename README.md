@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/rohan-kim/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-<a href="https://www.notion.so/rohan-kim/Rohan-Kim-d13c9ca67304430082a7b8226afde2a0" target="_blank">
+<!-- <a href="https://www.notion.so/rohan-kim/Rohan-Kim-d13c9ca67304430082a7b8226afde2a0" target="_blank">
     <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
-</a>
+</a> -->
 
 
 <h3>Platforms & Languages</h3>
